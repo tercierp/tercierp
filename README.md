@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/tercierp/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Bachelor;Always%20learning&font=Fira%20Code&center=true&width=500&height=50&color=abd200&vCenter=true&pause=1000&size=24" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Master;Always%20learning&font=Fira%20Code&center=true&width=500&height=50&color=abd200&vCenter=true&pause=1000&size=24" />
   </a>
 </p>
 
