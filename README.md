@@ -21,7 +21,7 @@
 <h2 align="center">✨ My Skills ✨</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,scala,c&perline=6" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,scala,c,react,kotlin&perline=6" alt="Skills" />
   </a>
 </p>
 
